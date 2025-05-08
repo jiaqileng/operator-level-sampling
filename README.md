@@ -1,1 +1,1 @@
-# operator-level-sampling
+# Operator-Level Quantum Acceleration of Non-Logconcave Sampling
