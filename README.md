@@ -1,7 +1,7 @@
 # Operator-Level Quantum Acceleration of Non-Logconcave Sampling
 
 
-This repository provides two self-contained folders—**fig4/** and **fig5/**—for reproducing the figures from [*Operator-Level Quantum Acceleration of Non-Logconcave Sampling*](https://arxiv.org/abs/2505.05301) ([PDF](https://arxiv.org/pdf/2505.05301)).
+This repository provides three self-contained folders—**fig4/**, **fig5/**, and **fig6/**—for reproducing the figures from [*Operator-Level Quantum Acceleration of Non-Logconcave Sampling*](https://arxiv.org/abs/2505.05301) ([PDF](https://arxiv.org/pdf/2505.05301)).
 
 ---
 
