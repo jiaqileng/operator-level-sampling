@@ -85,3 +85,32 @@ This repository provides two self-contained folders—**fig4/** and **fig5/**—
    The script saves `log-beta-gap.pdf` next to itself.
 
 ---
+
+
+# fig6/ Lindbladian-based warm-start generation —  (generate data + plot)
+
+This folder contains scripts to (i) run the Lindblad dynamics experiment for chosen inverse temperatures **β** and save the time–overlap data, and (ii) generate the final figure from the saved outputs.
+
+---
+
+## Contents
+
+- `main1_fig6.py` (Python)  
+  Runs the simulation for a specified **β**, saves overlap data and (optionally) a quick diagnostic plot.  
+  You typically run this script **multiple times**, changing β each time.
+
+- `figure_beta_git.py` (Python)  
+  Reads the saved results produced by `main1_fig6.py` (for multiple β values) and generates the final figure for the paper / GitHub.
+
+
+- `*.pdf` (outputs)  
+  Final figure produced by `figure_beta_git.py` (filename depends on the script settings).
+
+---
+
+## Requirements
+
+Install dependencies (recommended: use a virtual environment):
+
+```bash
+pip install numpy scipy matplotlib h5py
