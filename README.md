@@ -93,7 +93,7 @@ This folder contains scripts to (i) run the Lindblad dynamics for chosen inverse
 
 ---
 
-### Contents
+**Contents**
 
 - `main1_fig6.py` (Python)  
   Runs the simulation for a specified **β**, saves overlap data and (optionally) a quick diagnostic plot.  
