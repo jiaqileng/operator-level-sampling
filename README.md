@@ -89,7 +89,7 @@ This repository provides two self-contained folders—**fig4/** and **fig5/**—
 
 ## `fig6/` Lindbladian-based warm-start generation —  (generate data + plot)
 
-This folder contains scripts to (i) run the Lindblad dynamics experiment for chosen inverse temperatures **β** and save the time–overlap data, and (ii) generate the final figure from the saved outputs.
+This folder contains scripts to (i) run the Lindblad dynamics for chosen inverse temperatures **β** and save the time–overlap data, and (ii) generate the final figure from the saved outputs.
 
 ---
 
